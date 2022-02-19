@@ -1,4 +1,3 @@
-//solve 2 sum problem using linear, binary, interpolation search.
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
